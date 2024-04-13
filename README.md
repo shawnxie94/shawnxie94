@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 - **[JavaCallGraph]**: Java implementation of CallGraph. [View Project](https://github.com/Xiaoxie1994/JavaCallGraph)
 
 ## Blogs
-- [浅析“代码可视化”](https://developer.jdcloud.com/article/3346?mid=30)
-- [代码变更影响分析](https://developer.jdcloud.com/article/3436?mid=30)
-- [实现“代码可视化”需要了解的前置知识-编译器前端](https://developer.jdcloud.com/article/3718?mid=30)
-- [想提高阅读代码的效率？试试这些工具吧！](https://developer.jdcloud.com/article/3571?mid=30)
+- [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
+- [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
+- [实现“代码可视化”需要了解的前置知识-编译器前端](https://juejin.cn/post/7356625386665033728)
+- [想提高阅读代码的效率？试试这些工具吧！](https://juejin.cn/post/7324270771554648091)
 
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
