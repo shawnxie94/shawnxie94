@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 🌐 I believe in the power of visualization to elucidate the unseen and untangle the complex, making the developer's life easier and more productive. Let's connect and explore the endless possibilities that lie in the intersection of coding and visual representation.
 
+## Git Books
+- **[code-visualization-book]**: A book about code visualization. [View Book](https://github.com/Xiaoxie1994/code-visualization-book)
+
 ## Projects
 - **[JavaCallGraph]**: Java implementation of CallGraph. [View Project](https://github.com/Xiaoxie1994/JavaCallGraph)
 
