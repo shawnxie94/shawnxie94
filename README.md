@@ -31,8 +31,12 @@ Here are some ideas to get you started:
 
 ## Blogs
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
+- [编译器前端-词法分析](http://www.shawnxie.top/archives/lexical-analysis)
+- [编译器前端-语法分析](http://www.shawnxie.top/archives/syntactic-analysis)
+- [编译器前端-语义分析](http://www.shawnxie.top/archives/semantic-analyzer)
+- [编译器中端-中间代码生成](http://www.shawnxie.top/archives/generate-intermediate-representation)
+- [编译器中端-中间代码优化](http://www.shawnxie.top/archives/opt-intermediate-representation)
 - [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
-- [实现“代码可视化”需要了解的前置知识-编译器前端](https://juejin.cn/post/7356625386665033728)
 - [想提高阅读代码的效率？试试这些工具吧！](https://juejin.cn/post/7324270771554648091)
 
 ## Connect with Me
