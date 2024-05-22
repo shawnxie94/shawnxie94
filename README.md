@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **[code-visualization-book]**: A book about code visualization. [View Book](https://xiexiao064.gitbook.io/code-visualization)
 
 ## Projects
-- **[JavaCallGraph]**: Java implementation of CallGraph. [View Project](https://github.com/Xiaoxie1994/java-call-graph-diff)
+- **[java-call-graph-diff]**: Java implementation of CallGraph. [View Project](https://github.com/Xiaoxie1994/java-call-graph-diff)
 
 ## Blogs
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
