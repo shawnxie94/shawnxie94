@@ -15,19 +15,23 @@ Here are some ideas to get you started:
 # Hi there, I'm Shawn Xie! 👋
 
 ## About Me
-👨‍💻 Hello! I'm a **backend developer** with a deep-rooted passion for manifesting personal value through technology. With a knack for deconstructing complex problems into actionable steps, I thrive on the sense of accomplishment that comes with task completion.
+👨‍💻 Hello! I'm a **backend developer** with a deep-rooted passion for manifesting personal value through technology. With a knack for deconstructing complex problems into actionable steps, I thrive on the sense of accomplishment that comes with task completion.    
+你好！我是一名后端开发者，对通过技术实现个人价值有着深厚的热情。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。
 
-🚀 My professional journey has been marked by significant stints at leading internet companies like Meituan and JD.com, where I've honed my skills in designing and implementing intricate business projects. My experience with large-scale internet projects has not only sharpened my technical acumen but also enriched my understanding of the multifaceted nature of web services.
+🚀 My professional journey has been marked by significant stints at leading internet companies like Meituan and JD.com, where I've honed my skills in designing and implementing intricate business projects. My experience with large-scale internet projects has not only sharpened my technical acumen but also enriched my understanding of the multifaceted nature of web services.    
+在MT、JD等互联网公司有过工作经历，在那里磨练了我设计和实现复杂业务系统的能力。大规模互联网项目的经验不仅提高了我的技术洞察力，也丰富了我对互联网应用多样性的理解。
 
-🔍 Currently, I'm delving into the realm of **code visualization**. My aim is to transform code observability in certain aspects by employing graphical tools such as architecture diagrams, dependency graphs, distributed tracing, class diagrams, flame graphs, and CallGraphs. The goal is to aid developers in **comprehending and governing codebases**, and potentially, to **automate code refactoring**.
+🔍 Currently, I'm delving into the realm of **code visualization**. My aim is to transform code observability in certain aspects by employing graphical tools such as architecture diagrams, dependency graphs, distributed tracing, class diagrams, flame graphs, and CallGraphs. The goal is to aid developers in **comprehending and governing codebases**, and potentially, to **automate code refactoring**.     
+目前，我正在探索代码可视化领域。通过使用架构图、依赖图、分布式追踪、类图、火焰图和调用图等图形工具，在某些方面改变代码的可观察性。目的是帮助开发者理解和管理代码库，甚至自动化重构代码。
 
 🌐 I believe in the power of visualization to elucidate the unseen and untangle the complex, making the developer's life easier and more productive. Let's connect and explore the endless possibilities that lie in the intersection of coding and visual representation.
+我相信可视化的力量可以阐明不可见的事物，解开事物的复杂性，使开发者工作的更轻松、更高效。让我们一起探索编码和可视化的无限可能性吧！
 
 ## Git Books
-- **[code-visualization-book]**: A book about code visualization. [View Book](https://xiexiao064.gitbook.io/code-visualization)
+- **[code-visualization-book]**: 一本关于“代码可视化”的书籍，分为理论和实践两部分. [View Book](https://xiexiao064.gitbook.io/code-visualization)
 
 ## Projects
-- **[java-call-graph-diff]**: Java implementation of CallGraph. [View Project](https://github.com/Xiaoxie1994/java-call-graph-diff)
+- **[java-call-graph-diff]**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力. [View Project](https://github.com/Xiaoxie1994/java-call-graph-diff)
 
 ## Blogs
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
