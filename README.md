@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Blogs
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
-- [编译器前端-词法分析](http://www.shawnxie.top/archives/lexical-analysis)
-- [编译器前端-语法分析](http://www.shawnxie.top/archives/syntactic-analysis)
-- [编译器前端-语义分析](http://www.shawnxie.top/archives/semantic-analyzer)
-- [编译器中端-中间代码生成](http://www.shawnxie.top/archives/generate-intermediate-representation)
-- [编译器中端-中间代码优化](http://www.shawnxie.top/archives/opt-intermediate-representation)
+- [编译器前端-词法分析](https://www.shawnxie.top/archives/lexical-analysis)
+- [编译器前端-语法分析](https://www.shawnxie.top/archives/syntactic-analysis)
+- [编译器前端-语义分析](https://www.shawnxie.top/archives/semantic-analyzer)
+- [编译器中端-中间代码生成](https://www.shawnxie.top/archives/generate-intermediate-representation)
+- [编译器中端-中间代码优化](https://www.shawnxie.top/archives/opt-intermediate-representation)
 - [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
 - [想提高阅读代码的效率？试试这些工具吧！](https://juejin.cn/post/7324270771554648091)
 - [看不懂正则表达式？试试可视化工具吧！](https://juejin.cn/post/7372393716092764211)
@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
 - WeChat: ShawnLFF
-- Website：http://www.shawnxie.top/
+- Website：https://www.shawnxie.top/
 
 <!-- ![Xiaoxie1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaoxie1994&show_icons=true) -->
