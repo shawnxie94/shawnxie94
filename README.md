@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Projects
 - **[java-call-graph-diff](https://github.com/Xiaoxie1994/java-call-graph-diff)**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力.
-- **[developer-hotspots-summary](https://github.com/Xiaoxie1994/developer-hotspots-summary)**: 自动汇总并解读热榜内容。通过抓取技术热榜列表数据，并将相关文章内容发送给大模型生成摘要，[结果示例](https://www.shawnxie.top/archives/1716899674068).
+- **[developer-hotspots-summary](https://github.com/Xiaoxie1994/developer-hotspots-summary)**: 自动汇总并解读热榜内容。通过抓取技术热榜列表数据，并将相关文章内容发送给大模型生成摘要，[结果示例](https://github.com/Xiaoxie1994/developer-hotspots-summary/blob/main/result/2024-05-28%E7%83%AD%E9%97%A8%E6%96%87%E7%AB%A0.md).
 
 ## Blogs
 推荐到[个人主站](https://www.shawnxie.top/)查看文章，以下为部分往期博客：
