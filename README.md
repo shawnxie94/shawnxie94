@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 我相信可视化的力量可以阐明不可见的事物，解开事物的复杂性，使开发者工作的更轻松、更高效。让我们一起探索编码和可视化的无限可能性吧！
 
 ## Git Books
-- **[code-visualization-book]**: 一本关于“代码可视化”的书籍，分为理论和实践两部分. [View Book](https://xiexiao064.gitbook.io/code-visualization)
+- **[code-visualization-book](https://xiexiao064.gitbook.io/code-visualization)**: 一本关于“代码可视化”的书籍，分为理论和实践两部分. 
 
 ## Projects
-- **[java-call-graph-diff]**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力. [View Project](https://github.com/Xiaoxie1994/java-call-graph-diff)
+- **[java-call-graph-diff](https://github.com/Xiaoxie1994/java-call-graph-diff)**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力.
+- **[developer-hotspots-summary](https://github.com/Xiaoxie1994/developer-hotspots-summary)**: 自动汇总并解读热榜内容。通过抓取技术热榜列表数据，并将相关文章内容发送给大模型生成摘要，[结果示例](https://www.shawnxie.top/archives/1716899674068).
 
 ## Blogs
 推荐到[个人主站](https://www.shawnxie.top/)查看文章，以下为部分往期博客：
