@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 - **[developer-hotspots-summary](https://github.com/Xiaoxie1994/developer-hotspots-summary)**: 自动汇总并解读热榜内容。通过抓取技术热榜列表数据，并将相关文章内容发送给大模型生成摘要，[结果示例](https://github.com/Xiaoxie1994/developer-hotspots-summary/blob/main/result/2024-05-28%E7%83%AD%E9%97%A8%E6%96%87%E7%AB%A0.md).
 
 ## Blogs
-推荐到[个人主站](https://www.shawnxie.top/)查看文章，以下为部分往期博客：
+推荐到[个人主站](https://www.shawnxie.top/)查看。<br>
+技术周刊：
+- [【2024W23】肖恩技术周刊（第1期）](./article/【2024W23】肖恩技术周刊（第1期）.md)
+
+技术博客：
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
 - [编译器前端-词法分析](https://www.shawnxie.top/archives/lexical-analysis)
 - [编译器前端-语法分析](https://www.shawnxie.top/archives/syntactic-analysis)
@@ -48,5 +52,6 @@ Here are some ideas to get you started:
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
 - WeChat: ShawnLFF
+- 公众号: 肖恩杂谈
 
 <!-- ![Xiaoxie1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaoxie1994&show_icons=true) -->
