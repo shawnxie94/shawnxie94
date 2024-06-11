@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## Blogs
 推荐到[个人主站](https://www.shawnxie.top/)查看。<br>
 技术周刊：
-- [【2024W23】肖恩技术周刊（第1期）](./article/【2024W23】肖恩技术周刊（第1期）.md)
+- [【2024W23】肖恩技术周刊（第1期）](https://www.shawnxie.top/archives/1717738217389)
 
 技术博客：
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
