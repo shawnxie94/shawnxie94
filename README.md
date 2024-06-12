@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## Blogs
 推荐到[个人主站](https://www.shawnxie.top/)查看相关内容。<br>
-技术周刊：
+[肖恩技术周刊](https://www.shawnxie.top/categories/tf-weekly)：
 - [【2024W23】肖恩技术周刊（第1期）](https://www.shawnxie.top/archives/1717738217389)
 
 往期部分博客：
