@@ -35,15 +35,12 @@ Here are some ideas to get you started:
 - **[developer-hotspots-summary](https://github.com/Xiaoxie1994/developer-hotspots-summary)**: 自动汇总并解读热榜内容。通过抓取技术热榜列表数据，并将相关文章内容发送给大模型生成摘要.
 
 ## Blogs
-[肖恩技术周刊](https://www.shawnxie.top/categories/tf-weekly)：
-- [【2024W23】肖恩技术周刊（第1期）](https://www.shawnxie.top/archives/1717738217389)
+**技术周刊**：对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“工具分享”等。为减少阅读负担提高记忆留存率，每类下内容数一般不超过3条。
+- 往期内容：[肖恩技术周刊](https://github.com/Xiaoxie1994/shawn-weekly)
+- 订阅方式： [肖恩的杂货店](https://www.shawnxie.top/categories/tf-weekly), [RSS订阅](https://www.shawnxie.top/feed.xml), 公众号“肖恩杂谈”.
 
-往期部分博客：
+**其他博客**：
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
-- [编译器前端-词法分析](https://www.shawnxie.top/archives/lexical-analysis)
-- [编译器前端-语法分析](https://www.shawnxie.top/archives/syntactic-analysis)
-- [编译器中端-中间代码生成](https://www.shawnxie.top/archives/generate-intermediate-representation)
-- [编译器中端-中间代码优化](https://www.shawnxie.top/archives/opt-intermediate-representation)
 - [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
 - [想提高阅读代码的效率？试试这些工具吧！](https://www.shawnxie.top/archives/1716733748336)
 - [看不懂正则表达式？试试可视化工具吧！](https://www.shawnxie.top/archives/1716736791836)
