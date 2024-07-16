@@ -1,31 +1,8 @@
-<!--
-**Xiaoxie1994/Xiaoxie1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Shawn Xie! 👋
 
 ## About Me
 👨‍💻 Hello! I'm a **backend developer** with a deep-rooted passion for manifesting personal value through technology. With a knack for deconstructing complex problems into actionable steps, I thrive on the sense of accomplishment that comes with task completion.    
-你好！我是一名后端开发者，对通过技术实现个人价值有着深厚的热情。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。
-
-🚀 My professional journey has been marked by significant stints at leading internet companies like Meituan and JD.com, where I've honed my skills in designing and implementing intricate business projects. My experience with large-scale internet projects has not only sharpened my technical acumen but also enriched my understanding of the multifaceted nature of web services.    
-在MT、JD等互联网公司有过工作经历，在那里磨练了我设计和实现复杂业务系统的能力。大规模互联网项目的经验不仅提高了我的技术洞察力，也丰富了我对互联网应用多样性的理解。
-
-🔍 Currently, I'm delving into the realm of **code visualization**. My aim is to transform code observability in certain aspects by employing graphical tools such as architecture diagrams, dependency graphs, distributed tracing, class diagrams, flame graphs, and CallGraphs. The goal is to aid developers in **comprehending and governing codebases**, and potentially, to **automate code refactoring**.     
-目前，我正在探索代码可视化领域。通过使用架构图、依赖图、分布式追踪、类图、火焰图和调用图等图形工具，在某些方面改变代码的可观察性。目的是帮助开发者理解和管理代码库，甚至自动化重构代码。
-
-🌐 I believe in the power of visualization to elucidate the unseen and untangle the complex, making the developer's life easier and more productive. Let's connect and explore the endless possibilities that lie in the intersection of coding and visual representation.
-我相信可视化的力量可以阐明不可见的事物，解开事物的复杂性，使开发者工作的更轻松、更高效。让我们一起探索编码和可视化的无限可能性吧！
+你好！我是一名后端开发者，期望通过技术实现个人价值。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。下面是列举了我最近在做的事，如果有让你感兴趣的部分，可以通过联系方式和我交流讨论😁。
 
 ## Git Books
 - **[code-visualization-book](https://xiexiao064.gitbook.io/code-visualization)**: 一本关于“代码可视化”的书籍，分为理论和实践两部分. 
@@ -37,7 +14,7 @@ Here are some ideas to get you started:
 ## Blogs
 **技术周刊**：对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“工具分享”等。为减少阅读负担提高记忆留存率，每类下内容数一般不超过3条。
 - 往期内容：[肖恩技术周刊](https://github.com/Xiaoxie1994/shawn-weekly)
-- 订阅方式： [肖恩的杂货店](https://www.shawnxie.top/categories/tf-weekly), [RSS订阅](https://www.shawnxie.top/feed.xml), 公众号“肖恩杂谈”.
+- 订阅方式：[肖恩的杂货店](https://www.shawnxie.top/categories/tf-weekly), [RSS 订阅](https://www.shawnxie.top/feed.xml)或关注公众号“肖恩杂谈”.
 
 **其他博客**：
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
