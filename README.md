@@ -2,7 +2,7 @@
 
 ## About Me
 👨‍💻 Hello! I'm a **backend developer** with a deep-rooted passion for manifesting personal value through technology. With a knack for deconstructing complex problems into actionable steps, I thrive on the sense of accomplishment that comes with task completion.    
-你好！我是一名后端开发者，期望通过技术实现个人价值。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。下面是列举了我最近在做的事，如果有让你感兴趣的部分，可以通过联系方式和我交流讨论😁。
+你好！我是一名后端开发者，期望通过技术实现个人价值。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。下面列举了一些我最近在做的事，如果有让你感兴趣的部分，可以通过联系方式和我交流讨论😁。
 
 ## Git Books
 - **[code-visualization-book](https://xiexiao064.gitbook.io/code-visualization)**: 一本关于“代码可视化”的书籍，分为理论和实践两部分. 
