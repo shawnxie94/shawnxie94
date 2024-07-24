@@ -14,7 +14,9 @@
 ## Blogs
 **技术周刊**：对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“工具分享”等。为减少阅读负担提高记忆留存率，每类下内容数一般不超过3条。
 - 往期内容：[肖恩技术周刊](https://github.com/Xiaoxie1994/shawn-weekly)
-- 订阅方式：[肖恩的杂货店](https://www.shawnxie.top/categories/tf-weekly), [RSS 订阅](https://www.shawnxie.top/feed.xml)或关注公众号“肖恩杂谈”.
+- 订阅方式：[肖恩的杂货店](https://www.shawnxie.top/categories/tf-weekly), [RSS 订阅](https://www.shawnxie.top/feed.xml) 或关注公众号“肖恩杂谈”.
+
+<img src="./picture/image-1.png" alt="公众号二维码" width="400">
 
 **其他博客**：
 - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
@@ -26,8 +28,5 @@
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
 - WeChat: ShawnLFF
-- 公众号: 肖恩杂谈
-
-<img src="./picture/image-1.png" alt="公众号二维码" width="400">
 
 <!-- ![Xiaoxie1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaoxie1994&show_icons=true) -->
