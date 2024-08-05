@@ -19,11 +19,14 @@
 <img src="./picture/image-1.png" alt="公众号二维码" width="400">
 
 **其他博客**：
-- [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
-- [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
-- [想提高阅读代码的效率？试试这些工具吧！](https://www.shawnxie.top/archives/1716733748336)
-- [看不懂正则表达式？试试可视化工具吧！](https://www.shawnxie.top/archives/1716736791836)
-- [没时间了解技术热点？让大模型帮你整理重点吧！](https://juejin.cn/post/7378143151888744482)
+- 代码可视化相关
+    - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
+    - [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
+    - [想提高阅读代码的效率？试试这些工具吧！](https://www.shawnxie.top/archives/1716733748336)
+    - [看不懂正则表达式？试试可视化工具吧！](https://www.shawnxie.top/archives/1716736791836)
+- AI相关
+    - [没时间了解技术热点？让大模型帮你整理重点吧！](https://www.shawnxie.top/archives/1722760319667)
+    - [用 AI 解锁技术调研的新姿势](https://juejin.cn/post/7398938350969339919)
 
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
