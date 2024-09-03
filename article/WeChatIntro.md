@@ -27,7 +27,7 @@
 
 往期内容查看👉🏻 [提效工具](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3508413914134659081#wechat_redirect)
 
-<img src="image-1.png" alt="提效工具" width="500">
+<img src="image-5.png" alt="提效工具" width="500">
 
 ### 技术专栏
 技术专栏是对某一特定领域深入挖掘后的产物，具有较高的干货性质，但这一部分的需要长时间的积累产出会较慢。市面上有较多针对“架构设计”、“分布式理论”、“中间件原理”和“语言核心”的技术专栏，避免雷同如无真金白银就不献丑了。
