@@ -13,20 +13,17 @@
 
 ## Blogs
 **技术周刊**：对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“工具分享”等。为减少阅读负担提高记忆留存率，每类下内容数一般不超过3条。
-- 往期内容：[肖恩技术周刊](https://github.com/Xiaoxie1994/shawn-weekly)
+- 往期内容：[肖恩技术周刊](https://weekly.shawnxie.top/)
 - 订阅方式：关注公众号“[**肖恩聊技术**](https://mp.weixin.qq.com/s/-7-J0KpzfCl5wX5Rum1ltw)” 👈🏻点击查看说明.
 
 <img src="./picture/image.png" alt="公众号二维码" width="400">
 
-**其他博客**：
-- 代码可视化相关
-    - [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
-    - [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
-    - [想提高阅读代码的效率？试试这些工具吧！](https://www.shawnxie.top/archives/1716733748336)
-    - [看不懂正则表达式？试试可视化工具吧！](https://www.shawnxie.top/archives/1716736791836)
-- AI相关
-    - [没时间了解技术热点？让大模型帮你整理重点吧！](https://www.shawnxie.top/archives/1722760319667)
-    - [用 AI 解锁技术调研的新姿势](https://juejin.cn/post/7398938350969339919)
+**博客合集**：[suibi](https://github.com/Xiaoxie1994/suibi)
+- [浅析“代码可视化”](https://juejin.cn/post/7291321879321641019)
+- [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
+- [没时间了解技术热点？让大模型帮你整理重点吧！](https://mp.weixin.qq.com/s/qelnn3DWsOic0_5iXMKrJw)
+- [用 AI 解锁技术调研的新姿势](https://mp.weixin.qq.com/s/hzZHwjKH5IE6H0yNXVhDPQ)
+- [AI Agent初体验：变革正悄然发生](https://mp.weixin.qq.com/s/vjY98XzLarJGbaP6sHiOHQ)
 
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
