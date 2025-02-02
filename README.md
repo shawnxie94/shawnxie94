@@ -21,8 +21,8 @@
 **博客合集**：[suibi](https://github.com/Xiaoxie1994/suibi)
 - [龙年（2024）总结：折腾](https://shawnxie.top/blogs/talk/2024-end.html)
 - [浅析“代码可视化”](https://shawnxie.top/blogs/code-visualization/code-visualization-intro.html)
-- [代码变更影响分析](https://juejin.cn/post/7304561386889543706)
-- [没时间了解技术热点？让大模型帮你整理重点吧！](https://mp.weixin.qq.com/s/qelnn3DWsOic0_5iXMKrJw)
+- [代码变更影响分析](https://shawnxie.top/blogs/code-visualization/cg-diff.html)
+- [没时间了解技术热点？让大模型帮你整理重点吧！](https://shawnxie.top/blogs/ai/ai-hotspot.html)
 - [AI Agent初体验：变革正悄然发生](https://shawnxie.top/blogs/ai/ai-agent.html)
 
 ## Connect with Me
