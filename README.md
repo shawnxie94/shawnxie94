@@ -2,6 +2,7 @@
 
 ## About Me
 👨‍💻 Hello! I'm a **backend developer** with a deep-rooted passion for manifesting personal value through technology. With a knack for deconstructing complex problems into actionable steps, I thrive on the sense of accomplishment that comes with task completion.    
+
 你好！我是一名后端开发者，期望通过技术实现个人价值。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。下面列举了一些我最近在做的事，如果有让你感兴趣的部分，可以通过联系方式和我交流讨论😁。
 
 ## Git Books
@@ -18,7 +19,7 @@
 
 <img src="./picture/image.png" alt="公众号二维码" width="400">
 
-**博客合集**：[suibi](https://github.com/shawnxie94/suibi)
+**个人博客**：[肖恩聊技术](https://shawnxie.top/)
 - [龙年（2024）总结：折腾](https://shawnxie.top/blogs/talk/2024-end.html)
 - [浅析“代码可视化”](https://shawnxie.top/blogs/code-visualization/code-visualization-intro.html)
 - [代码变更影响分析](https://shawnxie.top/blogs/code-visualization/cg-diff.html)
