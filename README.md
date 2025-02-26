@@ -5,6 +5,9 @@
 
 你好！我是一名后端开发者，期望通过技术实现个人价值。我擅长将复杂问题分解为可执行的步骤，并且喜欢完成任务时的成就感。下面列举了一些我最近在做的事，如果有让你感兴趣的部分，可以通过联系方式和我交流讨论😁。
 
+<!-- ![shawnxie94's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnxie94&show_icons=true) -->
+[![shawnxie94's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnxie94&show_icons=true&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Git Books
 - **[code-visualization-book](https://xiexiao064.gitbook.io/code-visualization)**: 一本关于“代码可视化”的书籍，分为理论和实践两部分. 
 
@@ -29,5 +32,3 @@
 ## Connect with Me
 - Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
 - 公众号: 肖恩聊技术
-
-<!-- ![shawnxie94's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnxie94&show_icons=true) -->
