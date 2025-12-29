@@ -2,9 +2,6 @@
 
 持续学习，在AI浪潮中留住“**活人感**”。
 
-<!-- ![shawnxie94's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnxie94&show_icons=true) -->
-[![shawnxie94's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnxie94&show_icons=true&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Projects
 - **[java-call-graph-diff](https://github.com/shawnxie94/java-call-graph-diff)**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力.
 - **[developer-hotspots-summary](https://github.com/shawnxie94/developer-hotspots-summary)**: 自动汇总并解读热榜内容。通过抓取技术热榜列表数据，并将相关文章内容发送给大模型生成摘要.
