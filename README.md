@@ -1,4 +1,4 @@
-👨‍💻 I'm a **backend developer** with a deep-rooted passion for manifesting personal value through technology. 
+👨‍💻 I am a backend developer with a passion for programming.
 
 持续学习，在AI浪潮中留住“**活人感**”。
 
