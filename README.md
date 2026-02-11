@@ -3,6 +3,7 @@
 持续学习，在AI浪潮中留住“**活人感**”。
 
 ## Projects
+- **[lumina](https://github.com/shawnxie94/lumina)**: An information management workspace.（信息管理工作台）.
 - **[java-call-graph-diff](https://github.com/shawnxie94/java-call-graph-diff)**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力.
 
 ## Blogs
