@@ -10,7 +10,7 @@
 **[技术周刊](https://weekly.shawnxie.top/)**：记录有价值的技术内容。
 
 **[个人博客](https://shawnxie.top/)**
-- [蛇年（2025）总结：决定](https://shawnxie.top/blogs/talk/2025-end.html
+- [蛇年（2025）总结：决定](https://shawnxie.top/blogs/talk/2025-end.html)
 - [AI结对编程实战：打造智能文章知识库全记录（附9条心得）](https://shawnxie.top/blogs/ai/ai-article-database.html)
 - [关于AI单测提效的一点思考](https://shawnxie.top/blogs/ai/ai-unit-test.html)
 - [碎片时间刷文章！懒人阅读方案分享](https://shawnxie.top/blogs/tools/read-flow.html)
