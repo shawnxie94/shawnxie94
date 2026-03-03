@@ -7,6 +7,8 @@
 - **[java-call-graph-diff](https://github.com/shawnxie94/java-call-graph-diff)**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力.
 
 ## Blogs
+**[飞书知识库](https://jcnjkuuc4n18.feishu.cn/wiki/QQlzwCZgqiGD7jkVRZ1cjrALngc)**：与AI相关的信息留存和整理，包含“资讯简报”和“今日观察”。
+
 **[技术周刊](https://weekly.shawnxie.top/)**：记录有价值的技术内容。
 
 **[个人博客](https://shawnxie.top/)**
