@@ -10,10 +10,9 @@
 **[技术周刊](https://weekly.shawnxie.top/)**：记录有价值的技术内容。
 
 **[个人博客](https://shawnxie.top/)**
+- [Lumina：让高价值内容真正沉淀下来](https://shawnxie.top/blogs/aff/lumina.html)
 - [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html)
 - [蛇年（2025）总结：决定](https://shawnxie.top/blogs/talk/2025-end.html)
-- [AI结对编程实战：打造智能文章知识库全记录（附9条心得）](https://shawnxie.top/blogs/ai/ai-article-database.html)
-- [关于AI单测提效的一点思考](https://shawnxie.top/blogs/ai/ai-unit-test.html)
 
 ## Connect with Me
 - Email: [957568231@qq.com](mailto:957568231@qq.com)
