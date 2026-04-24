@@ -4,10 +4,9 @@
 
 ## Projects
 - **[lumina](https://github.com/shawnxie94/lumina)**: An information management workspace.（信息管理工作台）.
-- **[java-call-graph-diff](https://github.com/shawnxie94/java-call-graph-diff)**: CallGraph的Java实现方式。使用源码静态分析方式，提供静态调用关系图生成和代码变更影响面分析能力.
 
 ## Blogs
-**[技术周刊](https://weekly.shawnxie.top/)**：记录有价值的技术内容。
+**[技术周刊](https://lumina.shawnxie.top/reviews)**：记录有价值的技术内容。
 
 **[个人博客](https://shawnxie.top/)**
 - [Lumina：让高价值内容真正沉淀下来](https://shawnxie.top/blogs/aff/lumina.html)
