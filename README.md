@@ -3,8 +3,8 @@
 持续学习，在AI浪潮中留住“**活人感**”。
 
 ## Projects
-- **[lumina](https://github.com/shawnxie94/lumina)**: 信息管理工作台，提供网页采集、AI 解读、沉浸式阅读和周期回顾等功能，打造专属知识库。
-- **[infinitum](https://github.com/shawnxie94/infinitum)**: 资讯聚合工作台，提供 RSS 抓取、正文补抓、AI 摘要分析、事件归组等功能，提高信息获取效率。
+- **[lumina](https://github.com/shawnxie94/lumina)**: 信息管理工作台（[演示站点](https://lumina.shawnxie.top/)），提供网页采集、AI 解读、沉浸式阅读和周期回顾等功能，打造专属知识库。
+- **[infinitum](https://github.com/shawnxie94/infinitum)**: 资讯聚合工作台（[演示站点](https://infinitum.shawnxie.top/)），提供 RSS 抓取、正文补抓、AI 摘要分析、事件归组等功能，提高信息获取效率。
 
 ## Blogs
 **[技术周刊](https://lumina.shawnxie.top/reviews)**：记录有价值的技术内容。
