@@ -7,7 +7,6 @@
 - **[lumina](https://github.com/shawnxie94/lumina)**: 信息管理工作台（[演示站点](https://lumina.shawnxie.top/)），提供网页采集、AI 解读、沉浸式阅读和周期回顾等功能，打造专属知识库。
 - **[readrops-lumina](https://github.com/shawnxie94/readrops-lumina)**：Android RSS 阅读器（[安装包](https://github.com/shawnxie94/readrops-lumina/releases)），基于 Readrops 改造，增加手机端内容快速同步 Lumina 入口，利于采集。
 - **[md-cli](https://github.com/shawnxie94/md-cli)**：公众号排版渲染命令行工具，基于doocs/md改造，方便 AI Agent 接入使用。
-- **[skills](https://github.com/shawnxie94/skills)**：从日常工作学习中沉淀的可复用技能。
 
 ## Blogs
 **[技术周刊](https://lumina.shawnxie.top/reviews)**：记录有价值的技术内容。
