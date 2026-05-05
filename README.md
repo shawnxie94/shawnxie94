@@ -11,6 +11,7 @@
 **[技术周刊](https://lumina.shawnxie.top/reviews)**：记录有价值的技术内容。
 
 **[个人博客](https://shawnxie.top/)**
+- [Infinitum：懒人阅读方案 2.0，让信息聚合真正跑起来](https://shawnxie.top/blogs/aff/infinitum.html)
 - [Lumina：让高价值内容真正沉淀下来](https://shawnxie.top/blogs/aff/lumina.html)
 - [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html)
 - [蛇年（2025）总结：决定](https://shawnxie.top/blogs/talk/2025-end.html)
