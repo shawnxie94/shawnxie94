@@ -3,7 +3,6 @@
 持续学习，在AI浪潮中留住“**活人感**”。
 
 ## Projects
-- **[aether](https://github.com/shawnxie94/aether)**: Codex插件，能将图片沉淀为可复用的视觉记忆，助你持续创作出美学风格一致的图片。
 - **[infinitum](https://github.com/shawnxie94/infinitum)**: 资讯聚合工作台（[演示站点](https://infinitum.shawnxie.top/)），提供 RSS 抓取、正文补抓、AI 摘要、事件归组、AI 日报等功能，提高信息获取效率。
 - **[lumina](https://github.com/shawnxie94/lumina)**: 信息管理工作台（[演示站点](https://lumina.shawnxie.top/)），提供网页采集、AI 解读、沉浸式阅读和周期回顾等功能，打造专属知识库。
 - **[readrops-lumina](https://github.com/shawnxie94/readrops-lumina)**：Android RSS 阅读器（[安装包](https://github.com/shawnxie94/readrops-lumina/releases)），基于 Readrops 改造，增加手机端内容快速同步 Lumina 入口，利于采集。
