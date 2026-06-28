@@ -2,22 +2,13 @@
 
 持续学习，在AI浪潮中留住“**活人感**”。
 
-## Projects
-- **[infinitum](https://github.com/shawnxie94/infinitum)**: 资讯聚合工作台（[演示站点](https://infinitum.shawnxie.top/)），提供 RSS 抓取、正文补抓、AI 摘要、事件归组、AI 日报等功能，提高信息获取效率。
-- **[lumina](https://github.com/shawnxie94/lumina)**: 信息管理工作台（[演示站点](https://lumina.shawnxie.top/)），提供网页采集、AI 解读、沉浸式阅读和周期回顾等功能，打造专属知识库。
-- **[readrops-lumina](https://github.com/shawnxie94/readrops-lumina)**：Android RSS 阅读器（[安装包](https://github.com/shawnxie94/readrops-lumina/releases)），基于 Readrops 改造，增加手机端内容快速同步 Lumina 入口，利于采集。
+## Portal
+欢迎访问个人门户站：[肖恩聊技术](https://shawnxie.top/)，汇总个人博客、项目、工具等各方面内容。
 
-## Blogs
-**[技术周刊](https://lumina.shawnxie.top/reviews)**：记录有价值的技术内容。
-
-**[个人博客](https://shawnxie.top/)**
-- [Infinitum：懒人阅读方案 2.0，让信息聚合真正跑起来](https://shawnxie.top/blogs/aff/infinitum.html)
-- [Lumina：让高价值内容真正沉淀下来](https://shawnxie.top/blogs/aff/lumina.html)
-- [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html)
-- [蛇年（2025）总结：决定](https://shawnxie.top/blogs/talk/2025-end.html)
+<img width="1226" height="544" alt="image" src="https://github.com/user-attachments/assets/9be2fb25-6348-4e80-9e49-64e7f750a36c" />
 
 ## Connect with Me
-- Email: [957568231@qq.com](mailto:957568231@qq.com)
+- Email: [xiexiao064@gmail.com](mailto:xiexiao064@gmail.com)
 - X: [@ShawnXTalk](https://x.com/ShawnXTalk)
 - 公众号: [肖恩聊技术](https://mp.weixin.qq.com/s/-7-J0KpzfCl5wX5Rum1ltw)
 <img src="./picture/image2.png" alt="公众号二维码" width="400">
